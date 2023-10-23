@@ -1,0 +1,25 @@
+[
+    {
+        "id": 2269746669424,
+        "facultad": "FACI",
+        "carrera": "Software",
+        "asignatura": "POO",
+        "profesor": "Daniel Vera",
+        "alumno": "Kadir Barquet",
+        "semestre": "4S",
+        "paralelo": "A1",
+        "seccion": "Matutina",
+        "fechaInicio": "11/09/23",
+        "fechaFin": "11/01/24",
+        "nota1": 15.0,
+        "nota2": 15.0,
+        "examen1": 20.0,
+        "parcial1": 50.0,
+        "nota3": 15.0,
+        "nota4": 15.0,
+        "examen2": 20.0,
+        "parcial2": 50.0,
+        "nota_final": 100.0,
+        "estado": "Aprobado"
+    }
+]
